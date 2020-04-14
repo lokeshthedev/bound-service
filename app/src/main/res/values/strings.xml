@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BindedService</string>
+    <string name="button_text">Click me!</string>
+    <string name="editText_box">Enter a No.</string>
+</resources>
